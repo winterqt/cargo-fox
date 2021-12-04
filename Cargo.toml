@@ -1,0 +1,11 @@
+[package]
+name = "cargo-fox"
+description = "Add foxes to your project"
+version = "0.0.0"
+edition = "2021"
+repository = "https://github.com/winterqt/cargo-fox"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
