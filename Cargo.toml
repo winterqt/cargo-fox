@@ -4,6 +4,7 @@ description = "Add foxes to your project"
 version = "0.0.0"
 edition = "2021"
 repository = "https://github.com/winterqt/cargo-fox"
+readme = "README.md"
 license = "MIT"
 exclude = [".envrc", "flake.nix", "flake.lock"]
 
