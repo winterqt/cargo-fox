@@ -1,6 +1,6 @@
 # cargo-fox
 
-Add foxes to your project.
+Add foxes to your project, as inspired by [this tweet](https://twitter.com/ImogenBits/status/1466915038464200709).
 
 ## installation
 
