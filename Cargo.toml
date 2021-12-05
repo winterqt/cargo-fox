@@ -9,3 +9,10 @@ license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+anyhow = "1.0.51"
+cargo_metadata = "0.14.1"
+proc-macro2 = { version = "1.0.32", features = ["span-locations"] }
+rand = "0.8.4"
+structopt = "0.3.25"
+syn = { version = "1.0.82", features = ["full"] }
+walkdir = "2.3.2"
